@@ -1,0 +1,50 @@
+{
+  "genre": {
+    "anime": [
+      {
+        "title": "Akira",
+        "length": 140
+      },
+      {
+        "title": "Ghost In The Shell",
+        "length": 140
+      },
+      {
+        "title": "Graves Of The Fireflies",
+        "length": 99
+      }
+    ],
+    "action": [
+      {
+        "title": "Terminator 2",
+        "length": 140
+      },
+      {
+        "title": "The Woman King",
+        "length": 135
+      }
+    ],
+    "comedy": [
+      {
+        "title": "Dumb And Dumber",
+        "length": 107
+      },
+      {
+        "title": "Love Actually",
+        "length": 135
+      },
+      {
+        "title": "Kung Pow",
+        "length": 81
+      },
+      {
+        "title": "Shaolin Soccer",
+        "length": 135
+      },
+      {
+        "title": "Kung Fu Hustle",
+        "length": 99
+      }
+    ]
+  }
+}
